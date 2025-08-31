@@ -86,7 +86,7 @@ EscapeMuseum/
 ├── licence.txt  # Licence du projet
 ├── presentation.pdf  # Présentation du projet
 ├── requirements.txt  # Dépendances Python
-
+````
 ## 🎮 Commandes du jeu
 
 - **ZQSD / Flèches** : Se déplacer
